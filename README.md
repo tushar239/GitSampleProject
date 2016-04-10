@@ -1,2 +1,2 @@
 # GitSampleProject
-modified in master branch.
+modified with iss53 fix.
